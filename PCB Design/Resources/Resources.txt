@@ -1,0 +1,15 @@
+TI design portal for power supply
+https://www.ti.com/myti/docs/myDesigns
+
+Input supply protection
+https://www.youtube.com/watch?v=wT_oXP2OLKA
+https://www.youtube.com/watch?v=Vq6cxmzRnyw
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ti.com/lit/an/snva717/snva717.pdf?ts=1785401243567
+
+https://www.reddit.com/r/embedded/comments/1mqrk2m/power_supply_disable/
+https://www.ti.com/product/TPS2660
+
+ADC input protection
+https://www.eevblog.com/forum/projects/the-right-way-to-protect-analog-mcu-adc-input/
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.littelfuse.com/assetdocs/tvs-diode-sad-silicon-avalanche-diode-application-note?assetguid=e4e5626b-a7b4-4098-8b9d-49424e2cfdcc
+

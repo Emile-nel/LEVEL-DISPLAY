@@ -1,0 +1,128 @@
+(footprint "LEAD_PADS_6"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "397d16ce-0926-4a44-b6b3-9a8bfe241b0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Untitled"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7ff70116-13d0-4bfa-a9f2-e2d071c65921")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11fdbf26-41a0-4437-aa05-659ddbde61fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a7c4ccc-6895-4988-a65b-a706f3e96601")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "48d4dc3f-3338-4911-8608-2e559683c665")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -6.5 4.5)
+		(size 5.08 2.54)
+		(layers "*.Mask" "F.Cu")
+		(roundrect_rratio 0.15)
+		(uuid "62dcbefd-31f5-4ee4-b87f-f47d4cca2879")
+	)
+	(pad "2" smd roundrect
+		(at -6.5 8)
+		(size 5.08 2.54)
+		(layers "*.Mask" "F.Cu")
+		(roundrect_rratio 0.15)
+		(uuid "fedb5a8e-ff4e-485b-ba67-8b19d40c4442")
+	)
+	(pad "3" smd roundrect
+		(at -6.5 11.5)
+		(size 5.08 2.54)
+		(layers "*.Mask" "F.Cu")
+		(roundrect_rratio 0.15)
+		(uuid "23207c5e-16a1-4f13-8ed1-7db56927e004")
+	)
+	(pad "4" smd roundrect
+		(at 7 11.5)
+		(size 5.08 2.54)
+		(layers "*.Mask" "F.Cu")
+		(roundrect_rratio 0.15)
+		(uuid "f7c834eb-c74c-4293-b072-fa3b2aebb0da")
+	)
+	(pad "5" smd roundrect
+		(at 7 8)
+		(size 5.08 2.54)
+		(layers "*.Mask" "F.Cu")
+		(roundrect_rratio 0.15)
+		(uuid "44499956-357f-4ee3-bac5-1dc77c655158")
+	)
+	(pad "6" smd roundrect
+		(at 7 4.5)
+		(size 5.08 2.54)
+		(layers "*.Mask" "F.Cu")
+		(roundrect_rratio 0.15)
+		(uuid "aac91b1a-a0c7-4982-a521-07a93df193f6")
+		(padstack
+			(mode front_inner_back)
+			(layer "Inner"
+				(shape roundrect)
+				(size 5.08 2.54)
+				(roundrect_rratio 0.15)
+				(zone_connect -1)
+			)
+			(layer "B.Cu"
+				(shape roundrect)
+				(size 5.08 2.54)
+				(roundrect_rratio 0.15)
+				(zone_connect -1)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
